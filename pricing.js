@@ -1,3 +1,5 @@
+// KMC: Starting over ... 
+
 function formatPrice(price) {
   return parseInt(price * 100) / 100
 }
